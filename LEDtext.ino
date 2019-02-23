@@ -6,6 +6,11 @@
 const int ledpin = 13;
 const int inputpin = 2;
 
+int text01()
+{
+  return 0;
+
+}
 void setup() {
   pinMode(ledpin,OUTPUT);
   pinMode(inputpin,INPUT);
